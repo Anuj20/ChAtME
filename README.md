@@ -1,14 +1,8 @@
-# FriendlyChat
+# ChAtME
 
-This repository contains code for the FriendlyChat project in the [Firebase in a Weekend: Android by Google](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) Udacity course.
+ChAtME is a chat application that allows users to send and receive text and photos in realtime across platforms. the project was implemented using Firebase with the help of Udacity course instructions. Firebase uses google cloud as its storage database.
 
-## Overview
+Users can chat in real-time and as soon as any message is sent from any device to the cloud, the receiver device is automatically updated with the latest messages. 
 
-FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.
+To log in, the users will have to authenticate themselves through email-ids or google sign in option present on the start screen. 
 
-## Setup
-
-Setup requires creating a Firebase project. See https://firebase.google.com/ for more information.
-
-## License
-See [LICENSE](LICENSE)
